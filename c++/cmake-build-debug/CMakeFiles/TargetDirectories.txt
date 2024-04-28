@@ -1,0 +1,3 @@
+C:/Users/ANDRE/Desktop/Universidad/5to semestre/Infraestructura computacional/Teorica/Codigos Taller Hilos y Sincronizacion/c++/cmake-build-debug/CMakeFiles/c__.dir
+C:/Users/ANDRE/Desktop/Universidad/5to semestre/Infraestructura computacional/Teorica/Codigos Taller Hilos y Sincronizacion/c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ANDRE/Desktop/Universidad/5to semestre/Infraestructura computacional/Teorica/Codigos Taller Hilos y Sincronizacion/c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
